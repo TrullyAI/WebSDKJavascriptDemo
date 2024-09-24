@@ -1,4 +1,4 @@
-# Web SDK Typescript Demo
+# Web SDK Javascript Demo
 
 This demo was created following the steps detailed in the
 [Docs](https://www.npmjs.com/package/@trully/trully-sdk-react)
