@@ -1,4 +1,4 @@
-import { TrullySdkWeb } from "@trully/trully-react-components-npm";
+import { TrullySdkWeb } from "@trully/trully-sdk-react";
 import { useState } from "react";
 
 function App() {
@@ -56,7 +56,7 @@ function App() {
       ) : (
         <div className="trully-container trully-response">
           <img
-            src="https://trully-api-documentation.s3.amazonaws.com/trully-sdk/logo-trully.svg"
+            src="https://trully-api-documentation.s3.amazonaws.com/trully-sdk/logo-trully-unico.svg"
             alt="logo"
             className="trully-logo"
           />
